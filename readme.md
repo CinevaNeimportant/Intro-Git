@@ -5,3 +5,5 @@
 - `git add .` pregateste toate schimbarile pt a fi salvate (le adauga in staging);
 - `git commit -m "mesaj"` salveaza modificarile cu mesajul dorit;
 - `git push origin "nume branch"` salveaza modificarile pe origin(online) in ramura specificata;
+- `git branch "nume branch"` adauga o ramura noua;
+- `git checkout "nume branch"` ne muta pe ramura noua;
