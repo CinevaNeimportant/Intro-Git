@@ -8,3 +8,4 @@
 - `git branch "nume branch"` adauga o ramura noua;
 - `git checkout "nume branch"` ne muta pe ramura noua;
 - `git merge "nume branch"` adauga schimbarile in ramura actuala;
+- `git pull` salveaza modificarile din origine;
